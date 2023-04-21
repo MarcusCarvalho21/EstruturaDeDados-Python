@@ -8,5 +8,4 @@ minhaFila.inserir(4)
 minhaFila.remover()
 minhaFila.remover()
 minhaFila.remover()
-minhaFila.retornaValor()
-minhaFila.remover()
+
